@@ -1,0 +1,54 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+
+<defs>
+
+
+<filter id="blur">
+
+<feGaussianBlur stdDeviation="12"></feGaussianBlur>
+
+</filter>
+
+
+</defs>
+
+
+
+
+<circle cx="100" cy="100" r="65" fill="#B9DDB8" filter="url(#blur)"></circle>
+
+
+
+
+
+<circle cx="100" cy="100" r="45" stroke="#38533D" stroke-width="3"></circle>
+
+
+
+
+
+<rect x="75" y="75" width="50" height="35" rx="8" stroke="#38533D" stroke-width="3"></rect>
+
+
+
+
+
+<circle cx="90" cy="92" r="5" fill="#38533D"></circle>
+
+
+
+<circle cx="110" cy="92" r="5" fill="#38533D"></circle>
+
+
+
+
+
+<path d="
+M85 112
+C95 120 105 120 115 112
+" stroke="#38533D" stroke-width="3" stroke-linecap="round"></path>
+
+
+
+</svg>
